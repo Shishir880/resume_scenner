@@ -13,7 +13,7 @@ This project is a **Resume Category Predictor** that uses Machine Learning to cl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/Shishir880/resume_scenner.git
    cd YOUR_REPO_NAME
    ```
 
